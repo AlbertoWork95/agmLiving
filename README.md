@@ -26,4 +26,51 @@
 
 ## 📁 Estructura del proyecto
 
-agmLiving/ ├── index.html ├── css/ │ └── styles.css ├── js/ │ └── scripts.js (opcional) ├── assets/ │ ├── images/ │ └── fonts/ └── README.md
+```
+agmLiving/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── scripts.js (opcional)
+├── assets/
+│   ├── images/
+│   └── fonts/
+└── README.md
+```
+
+---
+
+## 💡 Cómo clonar el proyecto
+
+```bash
+git clone https://github.com/albertowork95/agmLiving.git
+```
+
+Luego puedes abrir el archivo `index.html` en tu navegador o editarlo con tu editor de código favorito.
+
+---
+
+## 📌 Notas
+
+- Este proyecto está pensado para fines de presentación o portfolio.  
+- Puedes modificarlo libremente y adaptarlo a tus necesidades personales o comerciales.
+
+---
+
+## 📬 Contacto
+
+¿Tienes preguntas, sugerencias o quieres colaborar?
+
+- GitHub: [@albertowork95](https://github.com/albertowork95)
+
+---
+
+
+
+Gracias por visitar **agmLiving** 🌱
+```
+
+---
+
+¿Quieres que te genere también un `LICENSE.md` con MIT o alguna otra? ¿O deseas que lo adapte al contenido real del sitio (si tiene alguna sección específica como servicios, blog, catálogo, etc.)? Puedo afinarlo más si me das algún detalle extra 😊
