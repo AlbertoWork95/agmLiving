@@ -1,4 +1,4 @@
-# 🌿 agmLiving
+# 🌿 agmLiving (dev mode)
 
 **agmLiving** es una web desarrollada con el objetivo de ofrecer una experiencia visual moderna y accesible para presentar proyectos relacionados con el estilo de vida saludable, bienestar y decoración de interiores con un enfoque elegante y minimalista.
 
