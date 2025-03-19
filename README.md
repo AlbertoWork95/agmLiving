@@ -71,6 +71,3 @@ Luego puedes abrir el archivo `index.html` en tu navegador o editarlo con tu edi
 Gracias por visitar **agmLiving** 🌱
 ```
 
----
-
-¿Quieres que te genere también un `LICENSE.md` con MIT o alguna otra? ¿O deseas que lo adapte al contenido real del sitio (si tiene alguna sección específica como servicios, blog, catálogo, etc.)? Puedo afinarlo más si me das algún detalle extra 😊
