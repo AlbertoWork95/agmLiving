@@ -396,6 +396,9 @@ header .intro-text {
 	position: relative;
 	overflow: hidden;
 }
+.nav navbar-nav navbar-right {
+	margin-top: 3vh;
+}
 .testimonial-content p {
 	margin-bottom: 0;
 	font-size: 14px;
