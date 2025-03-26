@@ -68,6 +68,6 @@ Luego puedes abrir el archivo `index.html` en tu navegador o editarlo con tu edi
 
 
 
-Gracias por visitar **agmLiving** 🌱
+Gracias por visitar **AGMLIVING**
 
 

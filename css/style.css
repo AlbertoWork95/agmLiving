@@ -42,7 +42,7 @@ a {
 }
 a:hover, a:focus {
 	text-decoration: none;
-	color: #f39c12  ;
+	color: #f39c12;
 }
 ul, ol {
 	list-style: none;
@@ -93,10 +93,10 @@ hr {
 	color: #fff;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
-	color: #f39c12  ;
+	color: #f39c12;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #f39c12   !important;
+	color: #f39c12 !important;
 	background-color: transparent;
 }
 #menu .phone {
@@ -135,7 +135,7 @@ hr {
 .section-title h2::after {
 	position: absolute;
 	content: "";
-	background-color: #f39c12  ;
+	background-color: #f39c12;
 	height: 3px;
 	width: 50px;
 	bottom: -1px;
@@ -144,7 +144,7 @@ hr {
 .btn-custom {
 	text-transform: uppercase;
 	color: #fff;
-	background-color: #f39c12 ;
+	background-color: #f39c12;
 	padding: 14px 20px;
 	letter-spacing: 1px;
 	margin: 0;
@@ -221,11 +221,11 @@ header .intro-text {
 #get-touch .btn-custom {
 	margin: 0;
 	background: transparent;
-	border: 2px solid #f39c12 ;
+	border: 2px solid #f39c12;
 }
 #get-touch .btn-custom:hover {
 	color: #393939;
-	background: #f39c12 ;
+	background: #f39c12;
 	border: 2px solid #fff;
 }
 /* About Section */
@@ -246,7 +246,7 @@ header .intro-text {
 #about h2::after {
 	position: absolute;
 	content: "";
-	background-color: #f39c12  ;
+	background-color: #f39c12;
 	height: 3px;
 	width: 50px;
 	bottom: -1px;
@@ -447,12 +447,12 @@ header .intro-text {
 #contact .btn-custom {
 	margin: 30px 0;
 	background: transparent;
-	border: 2px solid #f39c12 ;
+	border: 2px solid #f39c12;
 }
 #contact .btn-custom:hover {
 	color: #393939;
-	background: #f39c12 ;
-	border: 2px solid #fff ;
+	background: #f39c12;
+	border: 2px solid #fff;
 }
 label {
 	font-size: 12px;
@@ -535,7 +535,7 @@ color: #777;
 	color: #393939;
 }
 #footer a:hover {
-	color: #f39c12  ;
+	color: #f39c12;
 }
 
 /* Responsive adjustments */
