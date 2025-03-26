@@ -397,7 +397,7 @@ header .intro-text {
 	overflow: hidden;
 }
 .nav navbar-nav navbar-right {
-	margin-top: 3vh;
+	margin-top: 3vh;	
 }
 .testimonial-content p {
 	margin-bottom: 0;
@@ -649,4 +649,23 @@ color: #777;
 	max-width: 100%;
 	max-height: 100%;
 	object-fit: cover;
+  }
+
+.logo {
+  height: 10vh;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+  .logo {
+    height: 10vh;
+  }
+}
+.navbar-header {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	/* gap: 18vw; */
   }
