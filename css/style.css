@@ -153,10 +153,7 @@ hr {
 	border-radius: 4px;
 	transition: all 0.3s;
 }
-.btn-custom:hover, .btn-custom:focus, .btn-custom.focus, .btn-custom:active, .btn-custom.active {
-	color: #fff;
-	background-color: #393939;
-}
+
 .btn:active, .btn.active {
 	background-image: none;
 	outline: 0;
@@ -185,7 +182,6 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro h1 {
 	font-family: 'Montserrat', sans-serif;
 	color: #fff;
-	font-size: 50px;
 	font-weight: 700;
 	margin-top: 0;
 	margin-bottom: 10px;
@@ -199,12 +195,13 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	max-width: 600px;
 	margin: 0 auto;
 	margin-bottom: 40px;
-	background: rgba(0,0,0,.45);
+	
 }
 header .intro-text {
 	padding-top: 350px;
 	padding-bottom: 150px;
 	text-align: center;
+	background: rgba(0, 0, 0, 0.6); /* Darker semi-transparent background */
 }
 /* Get Touch Section */
 #get-touch {
@@ -669,3 +666,4 @@ color: #777;
 	justify-content: space-between;
 	/* gap: 18vw; */
   }
+
