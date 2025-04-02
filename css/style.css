@@ -198,7 +198,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	
 }
 header .intro-text {
-	padding-top: 22vh;
+	padding-top: 25vh;
     padding-bottom: 9vh;
 	text-align: center;
 	background: rgba(0, 0, 0, 0.6); /* Darker semi-transparent background */
