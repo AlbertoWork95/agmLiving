@@ -198,10 +198,11 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	
 }
 header .intro-text {
-	padding-top: 350px;
-	padding-bottom: 150px;
+	padding-top: 22vh;
+    padding-bottom: 9vh;
 	text-align: center;
 	background: rgba(0, 0, 0, 0.6); /* Darker semi-transparent background */
+	
 }
 /* Get Touch Section */
 #get-touch {
